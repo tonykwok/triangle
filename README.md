@@ -4,4 +4,4 @@ Yet another Java porting of Endre Simo's [Triangle](https://www.esimov.com/2019/
 
 ![Sample image](https://tonykwok.github.io/assets/images/out.png)
 
-In the example above, the picture is composed of ```10344``` triangles.
+>|In the example above, the picture is composed of ```10344``` triangles.
